@@ -1,6 +1,5 @@
 # A.shree-red-team-toolkit
 🚩 A curated collection of red team techniques, notes, scripts, and resources for offensive security and adversary simulation. For educational use only.
-# A.shree-red-team-toolkit
 
 🎯 This repository is a comprehensive toolkit for Red Team operations, covering key phases of offensive security engagements including:
 
